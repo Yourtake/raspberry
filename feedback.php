@@ -9,23 +9,23 @@
             <meta name="author" content="Souvik Das">
             <title>Love And Latte - Feedback</title>
             
-            <link href="http://192.168.42.1/assets/css/images/logo.png" rel="shortcut icon">
-            <link type="text/css" href="http://192.168.42.1/assets/css/jquery-ui-1.10.4.css" rel="stylesheet">
+            <link href="assets/css/images/logo.png" rel="shortcut icon">
+            <link type="text/css" href="assets/css/jquery-ui-1.10.4.css" rel="stylesheet">
             <!--
             <link type="text/css" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
             -->
-            <link type="text/css" href="http://192.168.42.1/assets/css/bootstrap.min.css" rel="stylesheet">
-            <link type="text/css" href="http://192.168.42.1/assets/css/font-awesome.min.css" rel="stylesheet">
-            <link type="text/css" href="http://192.168.42.1/assets/css/star-rating.min.css" rel="stylesheet">
-            <link type="text/css" href="http://192.168.42.1/assets/css/theme.min.css" rel="stylesheet">
-            <link type="text/css" href="http://192.168.42.1/assets/css/feedback.css" rel="stylesheet">   
-            <link type="text/css" href="http://192.168.42.1/assets/css/bootstrap-theme.min.css" rel="stylesheet">     
-            <link href="http://192.168.42.1/assets/css/css" rel="stylesheet">   
-            <script async="" type="text/javascript" src="http://192.168.42.1/assets/js/bootstrap.min.js"></script>
-            <script src="http://192.168.42.1/assets/js/jquery.min.js" type="text/javascript"></script>
-            <script type="text/javascript" src="http://192.168.42.1/assets/js/bootbox.min.js"></script>
-            <script src="http://192.168.42.1/assets/js/star-rating.min.js" type="text/javascript"></script>  
-            <script src="http://192.168.42.1/assets/js/theme.min.js" type="text/javascript"></script>
+            <link type="text/css" href="assets/css/bootstrap.min.css" rel="stylesheet">
+            <link type="text/css" href="assets/css/font-awesome.min.css" rel="stylesheet">
+            <link type="text/css" href="assets/css/star-rating.min.css" rel="stylesheet">
+            <link type="text/css" href="assets/css/theme.min.css" rel="stylesheet">
+            <link type="text/css" href="assets/css/feedback.css" rel="stylesheet">   
+            <link type="text/css" href="assets/css/bootstrap-theme.min.css" rel="stylesheet">     
+            <link href="assets/css/css" rel="stylesheet">   
+            <script async="" type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+            <script src="assets/js/jquery.min.js" type="text/javascript"></script>
+            <script type="text/javascript" src="assets/js/bootbox.min.js"></script>
+            <script src="assets/js/star-rating.min.js" type="text/javascript"></script>  
+            <script src="assets/js/theme.min.js" type="text/javascript"></script>
             
             
     </head>
@@ -36,7 +36,7 @@
                        <div class="container">
                            <div class="header clearfix">
                                <center>
-                                   <img id="logo" src="http://192.168.42.1/assets/css/images/logo.png" width="100" height="90" class="img-responsive" alt="Generic placeholder thumbnail">
+                                   <img id="logo" src="assets/css/images/logo.png" width="100" height="90" class="img-responsive" alt="Generic placeholder thumbnail">
                                   <h3>Love &amp; Latte</h3><hr>
                           
                                </center>
@@ -45,7 +45,7 @@
                          <div class="container">
                                 <div class="row">
                                  <div class="col-xs-12">
-                                     <a style="color:white" href="http://192.168.42.1/index.php"> <h3 style="text-align: left"><span >&#xab;</span>&nbsp;Back</h3></a>
+                                     <a style="color:white" href="index.php"> <h3 style="text-align: left"><span >&#xab;</span>&nbsp;Back</h3></a>
                                  </div>
                               </div>
                                 </div>
@@ -168,7 +168,7 @@
                          </div>
                                    <br>
                                <center>
-                                   Powered by <img src="http://192.168.42.1/assets/css/images/yourtake.png" width="50" height="25">
+                                   Powered by <img src="assets/css/images/yourtake.png" width="50" height="25">
                                </center>
                 </div>
         

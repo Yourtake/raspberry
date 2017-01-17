@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0024)http://192.168.42.1/menu -->
+<!-- saved from url=(0024)menu -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         
           
@@ -9,16 +9,16 @@
             <meta name="author" content="Souvik Das">
             <title>Love And Latte - Menu</title>
             
-            <link href="http://192.168.42.1/assets/css/images/logo.png" rel="shortcut icon">
-            <link type="text/css" href="http://192.168.42.1/assets/css/images/jquery-ui-1.10.4.css" rel="stylesheet">
-            <link type="text/css" href="http://192.168.42.1/assets/css/images/bootstrap.min.css" rel="stylesheet">
-            <script async="" type="text/javascript" src="http://192.168.42.1/assets/js/bootstrap.min.js"></script>
-            <link type="text/css" href="http://192.168.42.1/assets/js/bootstrap-theme.min.css" rel="stylesheet">        
-            <script src="http://192.168.42.1/assets/js/jquery.min.js" type="text/javascript"></script>
-            <script type="text/javascript" src="http://192.168.42.1/assets/js/bootbox.min.js"></script>
+            <link href="assets/css/images/logo.png" rel="shortcut icon">
+            <link type="text/css" href="assets/css/images/jquery-ui-1.10.4.css" rel="stylesheet">
+            <link type="text/css" href="assets/css/images/bootstrap.min.css" rel="stylesheet">
+            <script async="" type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+            <link type="text/css" href="assets/js/bootstrap-theme.min.css" rel="stylesheet">        
+            <script src="assets/js/jquery.min.js" type="text/javascript"></script>
+            <script type="text/javascript" src="assets/js/bootbox.min.js"></script>
             
-            <link type="text/css" href="http://192.168.42.1/assets/css/menu.css" rel="stylesheet">   
-            <link href="http://192.168.42.1/assets/css/css" rel="stylesheet">
+            <link type="text/css" href="assets/css/menu.css" rel="stylesheet">   
+            <link href="assets/css/css" rel="stylesheet">
             
     </head>
        
@@ -28,7 +28,7 @@
                        <div class="container">
                            <div class="header clearfix">
                                <center>
-                                   <img id="logo" src="http://192.168.42.1/assets/css/images/logo.png" width="100" height="100" class="img-responsive" alt="Generic placeholder thumbnail">
+                                   <img id="logo" src="assets/css/images/logo.png" width="100" height="100" class="img-responsive" alt="Generic placeholder thumbnail">
                                  <h3>Love &amp; Latte</h3><hr>
                                </center>
                            </div>
@@ -36,7 +36,7 @@
                                <div class="container">
                                <div class="row">
                                  <div class="col-xs-12">
-                                     <a style="color:white" href="http://192.168.42.1/index.php"> <h3 style="text-align: left"><span >&#xab;</span>&nbsp;Back</h3></a>
+                                     <a style="color:white" href="index.php"> <h3 style="text-align: left"><span >&#xab;</span>&nbsp;Back</h3></a>
                                  </div>
                               </div>
                                </div>
@@ -535,7 +535,7 @@
             
             <br>
                                <center>
-                                   Powered by <img src="http://192.168.42.1/assets/css/images/yourtake.png" width="50" height="25">
+                                   Powered by <img src="assets/css/images/yourtake.png" width="50" height="25">
                                </center>
             
             
